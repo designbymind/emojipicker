@@ -1,0 +1,138 @@
+html {
+	margin: 0;
+	padding: 0;
+	overflow: hidden !important;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	overflow: hidden !important;
+}
+
+h2 {
+	margin: 0;
+	/* margin-bottom: 1rem; */
+	font-size: 1rem;
+	text-align: center;
+}
+
+#picker {
+	overflow: hidden !important;
+}
+
+.datemaps-emoji-picker {
+	gap: 0 !important;
+	/*height: calc(100vh - 150px) !important;*/
+	width: 100% !important;
+	height: calc(100vh - 0px) !important;
+	--emoji-area-height: calc(100vh - 108px) !important;
+	--search-height: 50px !important;
+	--search-background-color: #efeff4;
+	--search-focus-background-color: #efeff4;
+	--search-icon-color: #000000;
+	--search-placeholder-color: #777777;
+	--category-tabs-height: 50px !important;
+	--category-tab-color: #000000;
+	--category-tab-active-color: #007aff;
+	--variant-popup-background-color: transparent !important;
+	/*--overlay-background-color: rgba(255, 255, 255, 0.95) !important;*/
+	--overlay-background-color: rgba(255, 255, 255, 0.6) !important;
+	--accent-color: #0066cc;
+	border-radius: 0 !important;
+	overflow: hidden !important;
+	-webkit-user-select: none !important;
+	user-select: none !important;
+	-webkit-tap-highlight-color: transparent !important;
+}
+
+.EmojiPicker_picker__19Vln {
+	border-radius: 0 !important;
+}
+
+.EmojiPicker_header__eDZPD {
+	gap: 0 !important;
+	padding: 0 !important;
+	/* Test Props */
+	position: fixed !important;
+	top: 0 !important;
+	z-index: 1 !important;
+	width: 100% !important;
+}
+
+.EmojiPicker_content__xT6Kl {
+	position: fixed !important;
+	top: 108px !important;
+	bottom: 0px !important;
+	left: 0px !important;
+	width: 100% !important;
+}
+
+.EmojiPicker_fullHeight__7kz2H {
+	top: 58px !important;
+	padding-top: 8px !important;
+}
+
+/*.EmojiArea_emojis__L4mMq {padding-bottom: 34px !important;}*/
+.EmojiCategory_categoryName__zHcOq {
+	position: sticky;
+	z-index: 1;
+	/*background-color: rgba(255, 255, 255, 0.9) !important;*/
+	background-color: rgba(255, 255, 255, 0.6) !important;
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+}
+
+/* Emoji Section Container */
+.EmojiContainer_emojiContainer__4SPb5 {
+	padding: 0 0.5em 20px 0.5em !important;
+}
+
+/* Variant Overlay */
+.VariantPopup_variantOverlay__gGwue {
+	border-radius: 0 !important;
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+}
+
+/* Search Container */
+.Search_searchContainer__aJW7V {
+	margin: 8px 8px 0 !important;
+	padding: 0 !important;
+}
+
+/* Search Input */
+.Search_searchField__tENKn {
+	font-size: 18px !important;
+	font-weight: 700 !important;
+	border-radius: 10px !important;
+	border: solid 1px #dddddd !important;
+}
+
+.ErrorMessage_error__7I7y1 {
+	height: auto !important;
+}
+
+.ErrorMessage_icon__4---V {
+	margin: 36px 0 0 !important;
+}
+
+/* Active Tab */
+.CategoryTabs_categoryButton__AsR9b,
+.CategoryTabs_categoryTabActive__691be {
+	border: none !important;
+}
+
+/* Scrollbar Background */
+.EmojiArea_emojis__L4mMq::-webkit-scrollbar {
+	background: transparent !important;
+	width: 0 !important;
+}
+
+/* Scrollbar Handle */
+.EmojiArea_emojis__L4mMq::-webkit-scrollbar-thumb {
+	background: transparent !important;
+	border: none !important;
+	width: 0 !important;
+}
