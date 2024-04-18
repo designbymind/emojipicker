@@ -20,7 +20,7 @@ pnpm-debug.log*
 
 # VS Code
 .vscode
-DateMaps-Astro.code-workspace
+Emoji-Picker.code-workspace
 
 # macOS-specific files
 **/.DS_Store
