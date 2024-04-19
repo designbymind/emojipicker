@@ -1,8 +1,8 @@
 # Emoji Picker
 
-### Dependencies
+##### **Note:** This here picker was built for a singular instance and specific need within a WKWebView, within an iOS app...
 
-#### **Note:** This here picker was built for a singular instance and specific need within a WKWebView, within an iOS app...
+### Dependencies
 
 * **PicMo** (deprecated) — [Github](https://github.com/joeattardi/picmo)
   * Used to load emoji data, handle search, handle categories, etc. PicMo is no longer maintained and updating to later versions will most likely break this picker. Should you choose to use this, please don't expect any updates.
