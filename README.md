@@ -15,6 +15,9 @@
 
 **Unicode Emoji Version:** 15.1
 
+* Built to be as performant as possible given there are 3,782 emoji in total.
+* Should be cached and served via CDN or nearest your user.
+
 checkout the [demo](https://designbymind.com/lab/emojipicker).
 
 ###### *TBC...*
