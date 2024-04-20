@@ -1,6 +1,6 @@
 # Emoji Picker
 
-##### **Note:** This here picker was built for a singular instance and specific need within a WKWebView, within an iOS app...
+##### **Note:** This here picker was built for a singular, specific use case (within a WKWebView, within an iOS app)...
 
 ### Dependencies
 
@@ -18,6 +18,6 @@
 * Built to be as performant as possible given there are 3,782 emoji in total.
 * Should be cached and served via CDN or nearest your user.
 
-checkout the [demo](https://designbymind.com/lab/emojipicker).
+Checkout the [demo](https://designbymind.com/lab/emojipicker).
 
 ###### *TBC...*
