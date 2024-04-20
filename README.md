@@ -11,6 +11,10 @@
 
 ---
 
+### About
+
+**Unicode Emoji Version:** 15.1
+
 checkout the [demo](https://designbymind.com/lab/emojipicker).
 
 ###### *TBC...*
