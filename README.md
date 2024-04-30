@@ -1,6 +1,6 @@
 # Emoji Picker
 
-##### **Note:** This here picker was built for a singular, specific use case (within a WKWebView, within an iOS app)...
+**Note:** This here picker was built for a singular, specific use case (within a WKWebView, within an iOS app)...
 
 ### Dependencies
 
